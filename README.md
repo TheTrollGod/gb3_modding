@@ -49,57 +49,55 @@ The goal of this class is to fuck shit up from the shadows. Basically a better r
 # Progression
 ######
 
-# lvl 1
-* d10 hit die
-* proficient in DEX & INT saving throws
-* proficient with martial weapons, medium armor, light armor
-* can learn spells from scrolls
-* must prepare spells
-* cannot multiclass
-* expertise & advantage in stealth
+* lvl 1
+    * d10 hit die
+    * proficient in DEX & INT saving throws
+    * proficient with martial weapons, medium armor, light armor
+    * can learn spells from scrolls
+    * must prepare spells
+    * cannot multiclass
+    * expertise & advantage in stealth
 
-# lvl 2
-* sneak attack (melee & ranged)
-* 1 lv 1 spell slot
+* lvl 2
+    * sneak attack (melee & ranged)
+    * 1 lv 1 spell slot
 
-# lvl 3
-* extra bonus action
-* +1 lv 1 spell slot
+* lvl 3
+    * extra bonus action
+    * +1 lv 1 spell slot
 
-# lvl 4
-* feat
-* +1 lv 2 spell slot
+* lvl 4
+    * feat
+    * +1 lv 2 spell slot
 
-# lvl 5
-* extra attack
+* lvl 5
+    * extra attack
 
-# lvl 6
-* +1 DEX
-* +1 lv 1, lv 2 spell slots
+* lvl 6
+    * +1 DEX
+    * +1 lv 1, lv 2 spell slots
 
-# lvl 7
-* main hand attack as bonus action
+* lvl 7
+    * main hand attack as bonus action
 
-# lvl 8
-* feat
-* +1 lv 1, lv 3 spell slots
+* lvl 8
+    * feat
+    * +1 lv 1, lv 3 spell slots
 
-# lvl 9
-* +1 lv 2 spell slot
+* lvl 9
+    * +1 lv 2 spell slot
 
-# lvl 10
-* 2nd extra attack
-* +1 lv 3 spell slot
+* lvl 10
+    * 2nd extra attack
+    * +1 lv 3 spell slot
 
-# lvl 11
-* extra action
-* +1 lv 4 spell slot
+* lvl 11
+    * extra action
+    * +1 lv 4 spell slot
 
-# lvl 12
-* +1 DEX
-* +1 lv 1, 2, 3, 4 spell slots
+* lvl 12
+    * +1 DEX
+    * +1 lv 1, 2, 3, 4 spell slots
 
-#####
-# Spell slots at max level (12)
-# [5] [4] [3] [2]
-#####
+* Spell slots at max level (12)
+    * [5] [4] [3] [2]
