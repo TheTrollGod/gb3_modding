@@ -1,0 +1,10 @@
+ <node id="AbilityDistributionPreset">
+                    <attribute id="ClassUUID" type="guid" value="baabc7db-09d5-4036-84b2-e1f1b7c48a6d"/>
+                    <attribute id="Charisma" type="int32" value="17"/>
+                    <attribute id="Constitution" type="int32" value="15"/>
+                    <attribute id="Dexterity" type="int32" value="12"/>
+                    <attribute id="Intelligence" type="int32" value="11"/>
+                    <attribute id="Strength" type="int32" value="17"/>
+                    <attribute id="Wisdom" type="int32" value="15"/>
+                    <attribute id="UUID" type="guid" value="baabc7db-09d5-4036-84b2-e1f1b7c48a6d"/>
+                </node>
