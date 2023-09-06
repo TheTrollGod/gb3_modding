@@ -5,13 +5,13 @@
         <node id="root">
             <children>
                 <node id="CharacterCreationPreset">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyShape" type="uint8" value="1"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="CloseUpA" type="LSString" value="HUM_M_Camera_Closeup_A"/>
                     <attribute id="CloseUpB" type="LSString" value="HUM_M_Camera_Closeup_B"/>
                     <attribute id="Overview" type="LSString" value="HUM_M_Camera_Overview_A"/>
                     <attribute id="RaceUUID" type="guid" value="2b0fbee8-dbbd-4966-b0d5-5de804c6378b"/>
-                    <attribute id="RootTemplate" type="guid" value="d67e00ba-22f0-4c98-bd0e-a7371b46485d"/>
+                    <attribute id="RootTemplate" type="guid" value="0e0f0f76-49b1-40c9-8770-77712cbb554b"/> This is the RootTemplate of the KryptonMaleStrong. I want the Kryptonian bodies to be the strong male and regular female.
                     <attribute id="SubRaceUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
                     <attribute id="UUID" type="guid" value="7fc7e88b-558a-4e65-acfe-c21bdb2e783a"/>
                     <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>

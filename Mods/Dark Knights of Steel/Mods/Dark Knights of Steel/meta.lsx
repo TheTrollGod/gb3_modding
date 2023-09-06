@@ -8,7 +8,7 @@
                 <node id="ModuleInfo">
                     <attribute id="Author" type="LSString" value="King Corhan"/>
                     <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
-                    <attribute id="Description" type="LSString" value="A mod I put together after buying and reading all 12 issues of Dark Knights of Steel. Not really meant to be balanced."/>
+                    <attribute id="Description" type="LSString" value="A mod I put together after buying and reading all 12 issues of Dark Knights of Steel. Not really meant to be balanced, but I'll try."/>
                     <attribute id="Folder" type="LSString" value="Dark Knights of Steel"/>
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>
                     <attribute id="MD5" type="LSString" value=""/>

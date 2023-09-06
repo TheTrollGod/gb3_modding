@@ -45,9 +45,7 @@ This class can use all available cantrips but can only prepare 7 at a time.
 # Dark Knight Class
 The goal of this class is to fuck shit up from the shadows. Basically a better rogue and (probably) not very balanced.
 
-######
 # Progression
-######
 
 * lvl 1
     * d10 hit die
@@ -56,7 +54,7 @@ The goal of this class is to fuck shit up from the shadows. Basically a better r
     * can learn spells from scrolls
     * must prepare spells
     * cannot multiclass
-    * expertise & advantage in stealth
+    * expertise in stealth & intimidation
 
 * lvl 2
     * sneak attack (melee & ranged)
@@ -85,10 +83,10 @@ The goal of this class is to fuck shit up from the shadows. Basically a better r
     * +1 lv 1, lv 3 spell slots
 
 * lvl 9
+    * advantage in stealth
     * +1 lv 2 spell slot
 
 * lvl 10
-    * 2nd extra attack
     * +1 lv 3 spell slot
 
 * lvl 11
@@ -101,3 +99,25 @@ The goal of this class is to fuck shit up from the shadows. Basically a better r
 
 * Spell slots at max level (12)
     * [5] [4] [3] [2]
+
+
+# Kryptonian Race
+Extremely strong and durable, a Kryptonian is weak to magic damage (force, psychic, and necrotic) but resistant to physical damage (bludgeoning, piercing, and slashing). They have the ability to fly, shoot rays of heat from their eyes, blow a ray of extreme cold, and X-ray vision.
+
+# Progression
+
+* lvl 1
+    * +2 STR, +2 CON
+    * weak to force, psychic, and necrotic
+    * resistant to bludgeoning, piercing, and slashing
+    * superior darkvision
+    * base movement
+
+* lvl 3
+    * heat vision as a bonus action OR freezing breath as a bonus action
+
+* lvl 5
+    * add your CON to your armor class
+
+* lvl 9
+    * fly as a bonus action
