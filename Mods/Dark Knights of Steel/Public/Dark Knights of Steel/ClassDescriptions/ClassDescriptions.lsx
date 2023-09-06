@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="314"/>
+    <region id="ClassDescriptions">
+        <node id="root">
+            <children>
+                <node id="ClassDescription"> 
+                    <attribute id="BaseHp" type="int32" value="10"/>
+                    <attribute id="CanLearnSpells" type="bool" value="true"/>
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/> 
+                    <attribute id="ClassEquipment" type="FixedString" value=""/> 
+                    <attribute id="Description" type="TranslatedString" handle="h32ba3cb8g24cbg44bdg94a0g88fe3e43ae2f" version="1"/> 
+                    <attribute id="DisplayName" type="TranslatedString" handle="h5639e7ffg5dcdg4d01g9e10g37974fa70aec" version="1"/> 
+                    <attribute id="HpPerLevel" type="int32" value="8"/> 
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="MustPrepareSpells" type="bool" value="true"/> 
+                    <attribute id="Name" type="FixedString" value="DarkKnight"/> 
+                    <attribute id="PrimaryAbility" type="uint8" value="2"/> 
+                    <attribute id="ProgressionTableUUID" type="guid" value="bcaf21a8-1a4a-4f3c-bacf-d33ca2572e86"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Fighter"/> 
+                    <attribute id="SpellCastingAbility" type="uint8" value="4"/>
+                    <attribute id="UUID" type="guid" value="09c2f417-d714-464e-ab2a-6428eb0b9ee5"/> 
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value=""/> 
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value=""/> 
+                        </node>
+                    </children>
+                </node>
+                
+                
+                
+            </children>
+        </node>
+    </region>
+</save>

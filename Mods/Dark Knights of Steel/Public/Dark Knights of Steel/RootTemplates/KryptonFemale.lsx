@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="0" build="51" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="MapKey" type="FixedString" value="2f8c4e37-c648-4d3a-a541-3b08ce620b49" /> generated new UUID
+          <attribute id="Name" type="LSString" value="Krypton_Female_Player" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="character" />
+          <attribute id="ParentTemplateId" type="FixedString" value="f6ad6fcb-c86f-4872-9677-bceb170ee080" /> 
+          <attribute id="Flag" type="int32" value="0" />
+          <attribute id="Icon" type="FixedString" value="65508880-7afc-74cf-97eb-8d85c80b79b4-_(Icon_Human_Female)" /> copied from df4aee69-40ea-480d-aa96-1abe82c28b66
+          <attribute id="Stats" type="FixedString" value="HeroHumanFemale" />
+          <attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+          <attribute id="CharacterVisualResourceID" type="FixedString" value="dafc9a49-2136-4a80-8629-fb58f108b2d6" /> copied from e2a05c9a-7366-4833-86e8-80764e111b71 (might need to change later)
+          <attribute id="PortraitVisualResourceID" type="FixedString" value="51214aaf-d81d-60f3-b7a6-28002ade0a6f" /> copied from df4aee69-40ea-480d-aa96-1abe82c28b66
+          <children>
+            <node id="SpeakerGroupList">
+              <children>
+                <node id="SpeakerGroup">
+                  <attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-3cf7-5894f9b49f0b" />
+                </node>
+                <node id="SpeakerGroup">
+                  <attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-64ae-849646d883eb" />
+                </node>
+              </children>
+            </node>
+            <node id="GameMaster" />
+            <node id="LocomotionParams" />
+          </children>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

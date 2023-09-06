@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="0" build="51" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="MapKey" type="FixedString" value="0e0f0f76-49b1-40c9-8770-77712cbb554b" /> generated new UUID
+          <attribute id="Name" type="LSString" value="Krypton_Male_Player_Strong" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="character" />
+          <attribute id="ParentTemplateId" type="FixedString" value="d67e00ba-22f0-4c98-bd0e-a7371b46485d" /> the mapkey from KryptonMale
+          <attribute id="Icon" type="FixedString" value="40b6c0b8-693d-3726-6819-acbc8481f208-_(Icon_Human_Male)" /> copied from fd7f2707-8f86-4836-bda8-e0db99c389cc
+          <attribute id="EqupmentRace" type="guid" value="e39505f7-f576-4e70-9ea9-298e38cd111a" /> found on the bg3 wiki under humanstrong male
+          <attribute id="CharacterVisualResourceID" type="FixedString" value="82dc7cd6-53dd-e3a4-32e3-88358f7ffb01" /> hope this works, from d59afe8a-58d2-4ca2-9892-090933eceebd
+          <attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Male_Strong" /> 
+          <children>
+            <node id="Tags">
+              <children>
+                <node id="Tag">
+                  <attribute id="Object" type="guid" value="d3116e58-c55a-4853-00a7-e9be20969773" />
+                </node>
+              </children>
+            </node>
+            <node id="GameMaster" />
+            <node id="LocomotionParams" />
+          </children>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>
