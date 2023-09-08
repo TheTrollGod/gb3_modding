@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="0" build="51" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="MapKey" type="FixedString" value="82623671-189a-4cd3-8b94-1f695962b72c" /> generated new UUID
+          <attribute id="Name" type="LSString" value="Krypton_Male_Player" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="character" />
+          <attribute id="ParentTemplateId" type="FixedString" value="f6ad6fcb-c86f-4872-9677-bceb170ee080" /> UUID of BASEKryptonMale
+          <attribute id="Flag" type="int32" value="0" />
+          <attribute id="Icon" type="FixedString" value="40b6c0b8-693d-3726-6819-acbc8481f208-_(Icon_Human_Male)" />
+          <attribute id="Stats" type="FixedString" value="HeroHumanMale" />
+          <attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+          <attribute id="CharacterVisualResourceID" type="FixedString" value="50371ad5-7ffb-4f12-802f-039030fae016" /> //TODO
+          <attribute id="PortraitVisualResourceID" type="FixedString" value="71aaadda-22e0-f962-14ff-f57d57a2e726" /> from fd7f2707-8f86-4836-bda8-e0db99c389cc.lsx
+          <children>
+            <node id="SpeakerGroupList">
+              <children>
+                <node id="SpeakerGroup">
+                  <attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-3cf7-5894f9b49f0b" />
+                </node>
+                <node id="SpeakerGroup">
+                  <attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-64ae-849646d883eb" />
+                </node>
+              </children>
+            </node>
+            <node id="GameMaster" />
+            <node id="LocomotionParams" />
+          </children>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

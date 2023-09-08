@@ -12,7 +12,7 @@
           <attribute id="ParentTemplateId" type="FixedString" value="4c3d8aa0-2e31-4dce-a792-84fc07fa63d8" /> 
           <attribute id="VisualTemplate" type="FixedString" value="" />
           <attribute id="Icon" type="FixedString" value="40b6c0b8-693d-3726-6819-acbc8481f208-_(Icon_Human_Male)" /> copied from fd7f2707-8f86-4836-bda8-e0db99c389cc
-          <attribute id="CharacterVisualResourceID" type="FixedString" value="07429e84-3d64-4e70-ae0f-84ca05629b53" /> copied from e2a05c9a-7366-4833-86e8-80764e111b71 (needs to be changed)
+          <attribute id="CharacterVisualResourceID" type="FixedString" value="e6dbe07e-5d88-4623-9e8e-67b05c927687" /> copied from e2a05c9a-7366-4833-86e8-80764e111b71 (needs to be changed)
           <attribute id="Race" type="guid" value="2b0fbee8-dbbd-4966-b0d5-5de804c6378b" /> copied from the UUID field in the Kyrptonian Race.lsx 
           <children>
             <node id="GameMaster" />
