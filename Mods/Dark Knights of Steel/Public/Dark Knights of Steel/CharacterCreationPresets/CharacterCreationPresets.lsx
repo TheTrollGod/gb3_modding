@@ -11,7 +11,7 @@
                     <attribute id="CloseUpB" type="LSString" value="HUM_M_Camera_Closeup_B"/>
                     <attribute id="Overview" type="LSString" value="HUM_M_Camera_Overview_A"/>
                     <attribute id="RaceUUID" type="guid" value="2b0fbee8-dbbd-4966-b0d5-5de804c6378b"/>
-                    <attribute id="RootTemplate" type="guid" value="80d0ef19-f11e-482f-96ab-f184a9460b8e"/> fd7f2707-8f86-4836-bda8-e0db99c389cc
+                    <attribute id="RootTemplate" type="guid" value="80d0ef19-f11e-482f-96ab-f184a9460b8e"/> fd7f2707-8f86-4836-bda8-e0db99c389cc, 82623671-189a-4cd3-8b94-1f695962b72c
                     <attribute id="SubRaceUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
                     <attribute id="UUID" type="guid" value="186fa059-58bc-45ca-95ac-c2de1755882c"/>
                     <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
@@ -23,7 +23,7 @@
                     <attribute id="CloseUpB" type="LSString" value="HUM_F_Camera_Closeup_B"/>
                     <attribute id="Overview" type="LSString" value="HUM_F_Camera_Overview_A"/>
                     <attribute id="RaceUUID" type="guid" value="2b0fbee8-dbbd-4966-b0d5-5de804c6378b"/>
-                    <attribute id="RootTemplate" type="guid" value="e3c07ecd-d3f7-4661-b029-18dee1f3114e"/> df4aee69-40ea-480d-aa96-1abe82c28b66
+                    <attribute id="RootTemplate" type="guid" value="df4aee69-40ea-480d-aa96-1abe82c28b66"/>  e3c07ecd-d3f7-4661-b029-18dee1f3114e
                     <attribute id="SubRaceUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
                     <attribute id="UUID" type="guid" value="11f00ba0-8cc3-4806-b24d-23c974c8c8a2"/>
                     <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
@@ -31,11 +31,11 @@
                 <node id="CharacterCreationPreset">
                     <attribute id="BodyShape" type="uint8" value="1"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="CloseUpA" type="LSString" value="HUM_M_Camera_Closeup_A"/>
-                    <attribute id="CloseUpB" type="LSString" value="HUM_M_Camera_Closeup_B"/>
-                    <attribute id="Overview" type="LSString" value="HUM_M_Camera_Overview_A"/>
+                    <attribute id="CloseUpA" type="LSString" value="HUM_MB_Camera_Closeup_A"/>
+                    <attribute id="CloseUpB" type="LSString" value="HUM_MB_Camera_Closeup_B"/>
+                    <attribute id="Overview" type="LSString" value="HUM_MB_Camera_Overview_A"/>
                     <attribute id="RaceUUID" type="guid" value="2b0fbee8-dbbd-4966-b0d5-5de804c6378b"/>
-                    <attribute id="RootTemplate" type="guid" value="056fffd0-9009-4627-84c2-f0a22e311ec7"/> This is the RootTemplate of the KryptonMaleStrong. I want the Kryptonian bodies to be the strong male and regular female.
+                    <attribute id="RootTemplate" type="guid" value="056fffd0-9009-4627-84c2-f0a22e311ec7"/> This is the RootTemplate of the KryptonMaleStrong. I want the Kryptonian bodies to be the strong male and regular female.  e5b3d162-3c1e-4d87-baf8-809a1e600012
                     <attribute id="SubRaceUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
                     <attribute id="UUID" type="guid" value="a3119ecf-d9d1-419b-b28a-cc2a2987fa16"/>
                     <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
@@ -43,9 +43,9 @@
                 <node id="CharacterCreationPreset">
                     <attribute id="BodyShape" type="uint8" value="1"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="CloseUpA" type="LSString" value="HUM_F_Camera_Closeup_A"/>
-                    <attribute id="CloseUpB" type="LSString" value="HUM_F_Camera_Closeup_B"/>
-                    <attribute id="Overview" type="LSString" value="HUM_F_Camera_Overview_A"/>
+                    <attribute id="CloseUpA" type="LSString" value="HUM_FB_Camera_Closeup_A"/>
+                    <attribute id="CloseUpB" type="LSString" value="HUM_FB_Camera_Closeup_B"/>
+                    <attribute id="Overview" type="LSString" value="HUM_FB_Camera_Overview_A"/>
                     <attribute id="RaceUUID" type="guid" value="2b0fbee8-dbbd-4966-b0d5-5de804c6378b"/>
                     <attribute id="RootTemplate" type="guid" value="3303e8f6-a7e4-4b24-b64c-d64bbc152803"/>
                     <attribute id="SubRaceUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>

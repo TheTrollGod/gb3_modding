@@ -26,6 +26,17 @@
                     <attribute id="TableUUID" type="guid" value="bcaf21a8-1a4a-4f3c-bacf-d33ca2572e86"/> Dark Knight Progression Table
                     <attribute id="UUID" type="guid" value="f2472cae-f790-4855-82b5-b336703614b2"/> generated new UUID
                 </node>
+                <!--Kryptonian Race Progression-->
+                <node id="Progression">
+                  <attribute id="Boosts" type="LSString" value="Ability(Constitution,3);Ability(Strength,3);Ability(Dexterity,1);ActionResource(Movement,9,0);Resistance(Slashing,Resistant);Resistance(Bludgeoning,Resistant);Resistance(Piercing,Resistant);Resistance(Poison, VulnerableToMagical);Resistance(Force,Resistant);Resistance(Necrotic,VulnerableToMagical);Resistance(Lightning,VulnerableToMagical);Resistance(Psychic,VulnerableToMagical);Resistance(Thunder,VulnerableToMagical)" />  
+                  <attribute id="Level" type="uint8" value="1"/>
+                  <attribute id="Name" type="LSString" value="Kryptonian"/>
+                  <attribute id="PassivesAdded" type="LSString" value="Darkvision"/>
+                  <attribute id="ProgressionType" type="uint8" value="2"/>
+                  <attribute id="Selectors" type="LSString" value=""/>
+                  <attribute id="TableUUID" type="guid" value="2f71bbd0-2f82-4615-8d0f-070f5cf420bc"/> Kryptonian Progression Table
+                  <attribute id="UUID" type="guid" value="cd13a379-3417-4200-b817-6a75bd22c85c"/> generated new UUID
+                </node>
             </children>
         </node>
     </region>

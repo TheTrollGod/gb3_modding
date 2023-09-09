@@ -1,0 +1,18 @@
+new entry "KryptonianResistance"
+type "PassiveData"
+data "DisplayName" "h97442744gdaeeg42f6ga158g64c8c7affcf0"
+data "Description" "h4a5e47dbg375eg4875g874dg2ee473a263d7"
+data "Icon" "GenericIcon_DamageType_Physical"
+data "Boosts" "Resistance(Slashing, Resistant);Resistance(Piercing, Resistant);Resistance(Bludgeoning, Resistant);Resistance(Poison, ResistantToNonMagical);Resistance(Acid, ResistantToNonMagical);Resistance(Fire, ResistantToNonMagical);Resistance(Cold, ResistantToNonMagical);Resistance(Radiant, ResistantToNonMagical);Resistance(Necrotic, ResistantToNonMagical)Resistance(Lightning, ResistantToNonMagical);Resistance(Thunder, ResistantToNonMagical);Resistance(Force, ResistantToNonMagical);Resistance(Psychic, ResistantToNonMagical)"
+
+new entry "KryptonianVulnerability"
+type "PassiveData"
+data "DisplayName" "h552dc748g7231g4a83g8198gb7f81b933db3"
+data "Description" "h76643de3g7a58g489cgbd8fg46e74edd2338"
+data "Icon" "GenericIcon_DamageType_Lightning"
+data "Boosts" "Resistance(Poison, VulnerableToMagical);Resistance(Acid, VulnerableToMagical);Resistance(Fire, VulnerableToMagical);Resistance(Cold, VulnerableToMagical);Resistance(Radiant, VulnerableToMagical);Resistance(Necrotic, VulnerableToMagical);Resistance(Lightning, VulnerableToMagical);Resistance(Thunder, VulnerableToMagical);Resistance(Force, VulnerableToMagical);Resistance(Psychic, VulnerableToMagical)"
+
+
+
+
+
